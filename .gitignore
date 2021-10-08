@@ -1,0 +1,8 @@
+# pycharm
+.idea
+__pycache__
+
+# authentication
+python/vars/zooniverse_login.py
+python/google_drive_folder/google_drive_credentials.txt
+python/google_drive_folder/settings.yaml

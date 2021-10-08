@@ -1,0 +1,3 @@
+number,slab_id,granite_type,warehouse,location,columns_or_rows,number_columns_or_rows,date_imaged,images_taken,image_dimensions
+1,1234,DallasWhite,UnitedStoneInternational,"Cleveland, OH",columns,8,06-16-21,8,"{'height': 6, 'width': 8}"
+2,4321,DallasWhite,UnitedStoneInternational,"Cleveland, OH",columns,8,06-16-21,8,"{'height': 6, 'width': 8}"
