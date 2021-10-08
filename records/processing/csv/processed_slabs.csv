@@ -1,3 +1,9 @@
 number,slab_id,granite_type,warehouse,location,columns_or_rows,number_columns_or_rows,date_imaged,images_taken,image_dimensions
-1,1234,DallasWhite,UnitedStoneInternational,"Cleveland, OH",columns,8,06-16-21,8,"{'height': 6, 'width': 8}"
-2,4321,DallasWhite,UnitedStoneInternational,"Cleveland, OH",columns,8,06-16-21,8,"{'height': 6, 'width': 8}"
+1,11519-20,DallasWhite,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,28,"{'height': 6, 'width': 8}"
+2,24019-32,LunaPearl,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,76,"{'height': 6, 'width': 8}"
+3,11519-20,DallasWhite,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,28,"{'height': 6, 'width': 8}"
+4,24019-32,LunaPearl,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,76,"{'height': 6, 'width': 8}"
+5,11519-20,DallasWhite,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,28,"{'height': 6, 'width': 8}"
+6,24019-32,LunaPearl,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,76,"{'height': 6, 'width': 8}"
+7,11519-20,DallasWhite,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,28,"{'height': 6, 'width': 8}"
+8,24019-32,LunaPearl,UnitedStoneInternational,"Cleveland, OH",,,07-09-20,76,"{'height': 6, 'width': 8}"
